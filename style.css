@@ -286,7 +286,7 @@ nav {
   box-shadow: 0 8px 24px rgba(0,0,0,0.6);
 }
 
-.hover-text:hover img {
+.hover-text:active img {
   display: block;
 }
 
